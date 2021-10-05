@@ -641,3 +641,8 @@ section{
     }
 
 }
+
+h3:hover{
+    color: aqua;
+    transition: 2px;
+}
